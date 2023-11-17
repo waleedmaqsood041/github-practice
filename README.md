@@ -1,4 +1,4 @@
 # github-practice
 practicing github
 <br>
-Name: Waleed
+Name: Waleed Maqsood (Python Intern)
